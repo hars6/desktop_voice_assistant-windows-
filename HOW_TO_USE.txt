@@ -1,0 +1,3 @@
+install pycharm
+pip install all libraries which is in script
+run the script and leave it in background
